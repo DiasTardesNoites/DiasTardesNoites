@@ -1,6 +1,5 @@
 ### Eae!! Eu sou o Mateus Dias
 
-- 🔭 Atualmente não estou trabalhando
 - 🌱 Estudando Redes
 - 📫 Contate-me no email: matdpassos@gmail.com
 - 😄 Pronouns: ele/dele
@@ -9,7 +8,6 @@
   <a href="https://github.com/DiasTardeNoites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=merko"/>
-  <img align="right" alt="Dias-gif" src="https://discord.com/channels/880532895276605531/880532895276605534/880532911760232510">
 </div>
   
   ##
