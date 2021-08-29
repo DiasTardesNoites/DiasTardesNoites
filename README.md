@@ -1,6 +1,6 @@
 ### Eae!! Eu sou o Mateus Dias
 
-<img align="right" alt="LeandroNeto-HTML" height="180" width="370" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="Rafa-yoda" height="180" width="325" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
 
 <div align="left"> 
   
@@ -17,7 +17,7 @@
   <a href="https://github.com/DiasTardeNoites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=highcontrast"/>
-      <img height="300" align="right" alt="Rafa-yoda" src="https://c.tenor.com/I_6MogZd3x4AAAAj/cup-coffee.gif">
+     
 </div>
   
   ##
