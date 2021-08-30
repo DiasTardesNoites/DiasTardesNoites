@@ -15,8 +15,8 @@
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
 <div>
   <a href="https://github.com/DiasTardeNoites">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
      
 </div>
   
