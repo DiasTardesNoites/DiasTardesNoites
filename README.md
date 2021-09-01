@@ -1,6 +1,6 @@
 ### Eae!! Eu sou o Mateus Dias
 
-<img align="right" alt="Rafa-yoda" height="180" width="325" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
+<img align="right" alt="Rafa-yoda" height="180" width="350" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
 
 <div align="left"> 
   
