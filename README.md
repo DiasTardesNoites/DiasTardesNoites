@@ -18,8 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
     
- ## [![trophy](https://github-profile-trophy.vercel.app/?username=DiasTardesNoites&theme=radical)](https://github.com/DiasTardesNoites/github-profile-trophy)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiasTardesNoites)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DiasTardesNoites&theme=radical)  
