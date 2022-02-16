@@ -9,7 +9,6 @@
 - 🔎 &nbsp; Explorando novas tecnologias
 - 👽 &nbsp; Em busca de conhecimento
 - 📫 Contate-me no email: matdpassos@gmail.com
-- 😄 Pronouns: ele/dele
 - ☕️ &nbsp; Aceita uma xícara de café?
 
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
