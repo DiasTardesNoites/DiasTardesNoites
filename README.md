@@ -5,7 +5,7 @@
 <div align="left"> 
   
 
-- 🌱 &nbsp; Estudando Redes de Computador
+- 🌱 &nbsp; Formado em Redes de Computador
 - 🔎 &nbsp; Explorando novas tecnologias
 - 👽 &nbsp; Em busca de conhecimento
 - 📫 Contate-me no email: matdpassos@gmail.com
@@ -19,8 +19,6 @@
     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiasTardesNoites)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DiasTardesNoites&theme=radical)  
-![Profile views](https://gpvc.arturio.dev/DiasTardesNoites)  
      
 </div>
   
