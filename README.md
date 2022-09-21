@@ -1,6 +1,6 @@
 ### Eae!! Eu sou o Mateus Dias
 
-<img align="right" alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
+
 
 <div align="left"> 
   
@@ -13,6 +13,9 @@
 
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
 <div>
+
+<img align="left" alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
+
   <a href="https://github.com/DiasTardeNoites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
