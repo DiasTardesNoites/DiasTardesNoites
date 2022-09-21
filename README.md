@@ -13,14 +13,13 @@
 
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
 
-<div>
+<br/>
 
-  <a href="https://github.com/DiasTardeNoites">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
-     
-     
-</div>
+<a href="https://github.com/DiasTardesNoites">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&theme=radical&show_icons=true" />
+</a>
+
+<br/>
   
   ##
   
