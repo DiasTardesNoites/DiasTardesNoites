@@ -1,9 +1,6 @@
 ### Eae!! Eu sou o Mateus Dias
 
-
-
 <div align="left"> 
-  
 
 - 🌱 &nbsp; Formado em Redes de Computador
 - 🔎 &nbsp; Explorando novas tecnologias
@@ -14,7 +11,7 @@
 ## 🔬 Seja bem vindo(a) ao meu laboratório!
 <div>
 
-<img align="left" alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
+<img align= alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
 
   <a href="https://github.com/DiasTardeNoites">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
