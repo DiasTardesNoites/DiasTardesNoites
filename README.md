@@ -15,7 +15,7 @@
 
 <br/>
 
-<a href="https://github.com/DiasTardesNoites">
+<a href="https://github.com/DiasTardesNoite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&theme=radical&show_icons=true" />
 </a>
 
