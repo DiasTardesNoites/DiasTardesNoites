@@ -1,5 +1,7 @@
 ### Eae!! Eu sou o Mateus Passos
 
+## 🔬 Seja bem vindo(a) ao meu laboratório!
+
 <img align="right" alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
 
 
@@ -11,16 +13,20 @@
 - 📫 Contate-me no email: matdpassos@gmail.com
 - ☕️ &nbsp; Aceita uma xícara de café?
 
-## 🔬 Seja bem vindo(a) ao meu laboratório!
+## Ferramentas e Tecnologias
+
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn-icons-png.flaticon.com/512/882/882832.png)" width="40" height="40"/>
 
 <br/>
 
 <h2 align="left">Github Stats</h2>
 
-[![DiasTardesNoites](https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&theme=radical)](https://github.com/DiasTardesNoites/)
-
-[![DiasTardesNoites](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&hide=html&layout=compact&theme=radical)](https://github.com/DiasTardesNoites/)
-
+<div>
+<a href="https://github.com/DiasTardesNoites">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+  
 <br/>
   
   ##
