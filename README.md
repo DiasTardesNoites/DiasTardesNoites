@@ -13,9 +13,14 @@
 - 📫 Contate-me no email: matdpassos@gmail.com
 - ☕️ &nbsp; Aceita uma xícara de café?
 
-## Ferramentas e Tecnologias
+## Principais Ferramentas e Tecnologias
 
-<img alt=atumalaca width="40" height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg]"/>
+<img alt=atumalaca width="50" height="50" src="https://www.svgrepo.com/show/331335/cisco.svg">
+  
+
+## Estou aprendendo
+
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
 
 <br/>
 
