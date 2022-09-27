@@ -15,20 +15,23 @@
 
 ## Principais Ferramentas e Tecnologias
 
-<img alt=atumalaca width="50" height="50" src="https://www.svgrepo.com/show/331335/cisco.svg">
-  
+<img width="45" height="45" src="https://www.svgrepo.com/show/331335/cisco.svg">
+<img width="45" height="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_170593.png">
+<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">  
 
 ## Estou aprendendo
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
-
+<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+<img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+          
+  
 <br/>
 
 <h2 align="left">Github Stats</h2>
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   
