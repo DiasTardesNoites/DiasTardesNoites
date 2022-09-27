@@ -15,7 +15,7 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://www.svgrepo.com/show/331335/cisco.svg)" width="40" height="40"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg]" width="40" height="40"/>
 
 <br/>
 
