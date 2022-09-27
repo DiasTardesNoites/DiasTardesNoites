@@ -15,7 +15,7 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn-icons-png.flaticon.com/512/882/882832.png)](https://www.flaticon.com/free-icon/cisco_882832)" width="40" height="40"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn-icons-png.flaticon.com/512/882/882832.png)](https://www.flaticon.com/free-icon/cisco_882832)" width="40" height="40"/>
 
 <br/>
 
