@@ -15,9 +15,11 @@
 
 <br/>
 
-<a href="https://github.com/DiasTardesNoites">
-<img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<h2 align="left">Github Stats</h2>
+
+[![DiasTardesNoites](https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&theme=radical)](https://github.com/DiasTardesNoites/)
+
+[![DiasTardesNoites](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&hide=html&layout=compact&theme=radical)](https://github.com/DiasTardesNoites/)
 
 <br/>
   
