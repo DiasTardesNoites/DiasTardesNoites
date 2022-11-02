@@ -2,7 +2,7 @@
 
 ### 🔬 Seja bem vindo(a) ao meu laboratório!
 
-<img align="right" align="top" alt="Mateus Passos" height="245" width="245" src="https://thumbs.gfycat.com/LankyDeliciousAllosaurus-max-1mb.gif"> 
+<img align="right" align="top" alt="Mateus Passos" height="345" width="345" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif"> 
 
 <div align="left"> 
 
