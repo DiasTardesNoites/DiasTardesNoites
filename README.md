@@ -2,7 +2,7 @@
 
 ### 🔬 Seja bem vindo(a) ao meu laboratório!
 
-<img align="right" alt="Rafa-yoda" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
+<img align="right" alt="Mateus Passos" height="170" width="340" src="https://c.tenor.com/Dj6o3MqGOt0AAAAC/working-hard-computer.gif">
 
 
 <div align="left"> 
