@@ -2,7 +2,7 @@
 
 ### 🔬 Seja bem vindo(a) ao meu laboratório!
 
-<!--<img align="right" alt="Mateus Passos" height="170" width="340" src=""> -->
+<img align="right" alt="Mateus Passos" height="360" width="360" src="https://media.giphy.com/media/9fngGUe3uNfZo7R1mC/giphy.gif"> 
 
 <div align="left"> 
 
