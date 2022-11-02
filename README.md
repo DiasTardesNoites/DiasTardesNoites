@@ -2,7 +2,7 @@
 
 ### 🔬 Seja bem vindo(a) à Corporação Cápsula! 💊
 
-<img align="right" align="top" alt="Mateus Passos" height="345" width="345" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif"> 
+<img align="right" align="top" alt="Mateus Passos" height="315" width="315" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif"> 
 
 <div align="left"> 
 
