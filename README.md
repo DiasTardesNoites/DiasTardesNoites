@@ -1,4 +1,4 @@
-## Eae!! Eu sou o Mateus Passos
+## Oi, Eu sou o Mateus!
 
 ### 🔬 Seja bem vindo(a) ao meu laboratório!
 
