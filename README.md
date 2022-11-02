@@ -2,7 +2,7 @@
 
 ### 🔬 Seja bem vindo(a) ao meu laboratório!
 
-<img align="right" alt="Mateus Passos" height="360" width="360" src="https://media.giphy.com/media/9fngGUe3uNfZo7R1mC/giphy.gif"> 
+<img align="right" align="top" alt="Mateus Passos" height="245" width="245" src="https://thumbs.gfycat.com/LankyDeliciousAllosaurus-max-1mb.gif"> 
 
 <div align="left"> 
 
@@ -30,8 +30,8 @@
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&bg_color=000&title_color=e01a00&icon_color=800800&border_color=7A0E00&text_color=fefe"/><br />
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&bg_color=000&title_color=e01a00&icon_color=800800&border_color=7A0E00&text_color=fff&include_all_commits=true&count_private=true"/>
+<img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=gotham"/> <br />
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=gotham"/>
 </div>
   
 <br/>
