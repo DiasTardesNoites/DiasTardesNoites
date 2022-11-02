@@ -31,7 +31,6 @@
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="117em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   
