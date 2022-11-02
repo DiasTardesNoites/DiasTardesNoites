@@ -1,6 +1,6 @@
-## Oi, Eu sou o Mateus!
+## Oi, eu sou o Mateus!
 
-### 🔬 Seja bem vindo(a) ao meu laboratório!
+### 🔬 Seja bem vindo(a) a Corporação Cápsula! 💊
 
 <img align="right" align="top" alt="Mateus Passos" height="345" width="345" src="https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif"> 
 
