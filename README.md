@@ -31,7 +31,7 @@
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&bg_color=000&title_color=#0d1117&icon_color=0d1117&border_color=7A0E00"/><br />
+<img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&bg_color=000&title_color=0d1117&icon_color=0d1117&border_color=7A0E00"/><br />
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 </div>
   
