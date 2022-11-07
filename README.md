@@ -28,7 +28,7 @@
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=darcula"/> <br />
+<img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=codeSTACKr"/> <br />
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=codeSTACKr"/>
 </div>
   
