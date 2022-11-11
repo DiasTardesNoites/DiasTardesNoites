@@ -28,8 +28,8 @@
 
 <div>
 <a href="https://github.com/DiasTardesNoites">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=vision-friendly-dark"/> <br />
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=vision-friendly-dark"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasTardesNoites&layout=compact&langs_count=7&theme=codeSTACKr"/> <br />
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=DiasTardesNoites&show_icons=true&theme=codeSTACKr"/>
 </div>
   
 <br/>
